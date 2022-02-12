@@ -1,5 +1,15 @@
 # Getting Started with Create React App
 
+# Tic Tac Toe
+
+1. Create Game UI
+2.
+3.
+4.
+5.
+6.
+7. Deploy on Github Pages
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
