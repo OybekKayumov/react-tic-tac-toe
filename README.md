@@ -3,7 +3,7 @@
 # Tic Tac Toe
 
 1. Create Game UI
-2.
+2. Add Reducer
 3.
 4.
 5.

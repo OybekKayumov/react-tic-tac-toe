@@ -20,7 +20,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  /* align-items: flex-start; */
+  align-items: flex-start;
   background-color: #0e80b0;
 }
 
@@ -40,4 +40,42 @@ body {
   cursor: pointer;
   position: relative;
   top: 0;
+}
+
+.disabled .btn {
+  cursor: default;
+}
+
+.disabled .btn:hover {
+  top: 0;
+  background: #fff;
+  color: orange;
+  box-shadow: 0 12px #ec5343, 0 18px rgba(0, 0, 0, 0.4);
+}
+
+.btn:hover {
+  background-color: orange;
+  color: #0e80b0;
+  top: 4px;
+  box-shadow: 0 8px orange, 0 14px rgba(0, 0, 0, 0.4);
+}
+
+.btn:active {
+  top: 8px;
+  box-shadow: 0 4px orange, 0 10px rgba(0, 0, 0, 0.4);
+}
+
+.game {
+  display: flex;
+  flex-wrap: wrap;  
+}
+
+.game-info {
+  margin: 15px;
+  color: #fff;
+}
+
+/* direct child > */
+.board > div {
+  display: flex;
 }
