@@ -2,13 +2,10 @@
 
 ![tic=tac-toe-react](https://user-images.githubusercontent.com/85465559/153743694-2b0f372e-e3a1-4dd8-8cb3-7239678dd3f8.png)
 
-<<<<<<< HEAD
-=======
 # Play here
 
 [Start Game](https://oybekkayumov.github.io/react-tic-tac-toe/)
 
->>>>>>> 0d3dbab9118cc6f22258f8206f3ef88316f3d657
 # Tic Tac Toe
 
 1. Create Game UI
