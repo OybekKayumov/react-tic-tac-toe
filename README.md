@@ -4,7 +4,7 @@
 
 # Play here
 
-[start](https://oybekkayumov.github.io/react-tic-tac-toe/)
+[Start Game](https://oybekkayumov.github.io/react-tic-tac-toe/)
 
 # Tic Tac Toe
 
