@@ -3,7 +3,8 @@ import Square from './Square'
 
 export default function Board(props) {
   return (
-    <div className='board'>My First React Project!
+    <div className='board'>Tic Tac Toe Game by React
+      
       <div>
         <Square value={props.squares[0]} onClick={() => {props.onClick(0)}} />
         <Square value={props.squares[1]} onClick={() => {props.onClick(1)}} />

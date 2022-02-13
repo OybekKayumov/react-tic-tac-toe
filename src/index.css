@@ -20,7 +20,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  align-items: flex-start;
+  /* align-items: flex-start; */
   background-color: #0e80b0;
 }
 
@@ -71,11 +71,34 @@ body {
 }
 
 .game-info {
-  margin: 15px;
+  font-size: 20px;
+  color: #fff;
+  justify-content: center;
+  align-self: flex-start;
+  margin: 5px;
+  padding: 0 40px;
+}
+
+.game-info li button{
+  background-color: #fff;
+  margin: 5px;
+  font-size: 20px;
+  color: #333;
+}
+
+.game-info li {
+  list-style: decimal; 
   color: #fff;
 }
+
 
 /* direct child > */
 .board > div {
   display: flex;
+}
+
+.board {
+  font-size: 28px;
+  text-align: center;
+  color: #fff;
 }

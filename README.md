@@ -1,13 +1,15 @@
 # Create React App
 
+![app-screenshot]()
+
 # Tic Tac Toe
 
 1. Create Game UI
 2. Add Reducer
-3.
-4.
-5.
-6.
+3. Add Button Click
+4. Create Move History Buttons
+5. Add Jump Clock Handler
+6. Calculate Winner
 7. Deploy on Github Pages
 
 This project was bootstrapped with [Create React App](https://github.com/).
